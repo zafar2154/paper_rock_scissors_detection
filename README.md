@@ -1,5 +1,9 @@
-Ini adalah proyek akhir : klasifikasi gambar
 
-Dari kelas Machine Learning Untuk Pemula Dicoding academy
+# Rock-Paper-Scissor Classification
 
-proyek ini mendapatkan bintang 5 rating submission
+Ini adalah repository saya dalam mengerjakan proyek dari dicoding kelas Machine Learning Untuk Pemula. 
+
+Projek ini mendapatkan rating submission bintang 5. 
+
+Repository ini hanya digunakan sebagai referensi!
+Jangan ditiru mentah-mentah.
